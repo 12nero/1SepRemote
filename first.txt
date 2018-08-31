@@ -1,1 +1,1 @@
-jjj
+this my 1st file in git im creating
