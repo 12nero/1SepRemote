@@ -1,1 +1,2 @@
 ithis is the second file
+adding a new line for diff command
