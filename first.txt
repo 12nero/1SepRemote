@@ -3,3 +3,5 @@ we wil test fetch now
 we r modifying in github
 we are modifying this in branch feature1
 WE are now testing branch merging,this was added on master
+we are testing branch merge,this was added in feature1
+
