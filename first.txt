@@ -1,1 +1,2 @@
 this my 1st file in git im creating
+we r modifying in github
