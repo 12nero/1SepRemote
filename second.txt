@@ -1,2 +1,3 @@
 ithis is the second file
 adding a new line for diff command
+we are adding a conflict with git hub..
