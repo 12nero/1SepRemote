@@ -1,3 +1,5 @@
 ithis is the second file
 adding a new line for diff command
 we are adding a conflict with git hub..
+im trying to create a conflict by making changes in the git hub remote repo.. someone from local remote repo also will try to commit changes after i commit
+
